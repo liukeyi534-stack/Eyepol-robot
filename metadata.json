@@ -1,0 +1,8 @@
+{
+  "name": "StarryEyes - Child Eye-Care Companion",
+  "description": "A comprehensive parental dashboard for monitoring child posture and eye health via the StarryEyes prevention robot. Features real-time tracking, AI-powered health insights, and gamified habit-building rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
